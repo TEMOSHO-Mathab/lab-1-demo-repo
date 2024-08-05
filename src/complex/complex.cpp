@@ -23,7 +23,7 @@ int main()
 
 	// Exercise 3.2
 
-	// EXERCISE 3.3, I AM USING COMPLE(FLOAT)
+	// EXERCISE 3.2, I AM USING COMPLE(FLOAT)
 	// Thius line is important that it can .......
 	return 0;
 }
