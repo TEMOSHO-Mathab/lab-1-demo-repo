@@ -1,5 +1,6 @@
 // complex.cpp
 // Multiplying complex numbers
+//Exercise 3.1
 
 #include <iostream> // contains the definition of cout, endl
 #include <complex>	// contains the complex class definition
@@ -21,6 +22,12 @@ int main()
 
 	// answer++;
 
+	// Exercise 3.2
+
+	// EXERCISE 3.2, I AM USING COMPLE(FLOAT)
+
+	// EXERCISE 3.3
+	// Thius line is important that it can .......
 	return 0;
 }
 
